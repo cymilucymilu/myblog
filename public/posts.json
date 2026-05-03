@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "hello-world",
+    "title": "Hello World",
+    "description": "欢迎来到我的博客！这是我的第一篇文章。",
+    "date": "2026-05-03",
+    "tags": [
+      "博客",
+      "Next.js",
+      "教程"
+    ],
+    "category": "技术"
+  },
+  {
+    "slug": "nextjs-guide",
+    "title": "Next.js 15 新特性详解",
+    "description": "深入了解 Next.js 15 的新特性和改进",
+    "date": "2026-05-01",
+    "tags": [
+      "Next.js",
+      "React",
+      "前端"
+    ],
+    "category": "技术"
+  }
+]
